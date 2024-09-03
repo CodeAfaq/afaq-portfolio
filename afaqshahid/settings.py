@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-)cvv!+nlj!lshd8g46oy(=t@@uvr5t(@0810=3^+*si-f3_dfo
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['afaq-portfolio.vercel.app', 'afaq.binarybreeze.co.uk', 'binarybreeze.co.uk']
+ALLOWED_HOSTS = ['hackafaq.vercel.app', 'afaq.binarybreeze.co.uk', 'binarybreeze.co.uk']
 
 
 # Application definition
