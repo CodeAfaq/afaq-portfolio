@@ -23,9 +23,9 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-)cvv!+nlj!lshd8g46oy(=t@@uvr5t(@0810=3^+*si-f3_dfo'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['afaq-portfolio.vercel.app', 'afaq.binarybreeze.co.uk', 'binarybreeze.co.uk']
 
 
 # Application definition
